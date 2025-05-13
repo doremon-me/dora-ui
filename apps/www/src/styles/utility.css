@@ -1,0 +1,255 @@
+.bg-background {
+  background-color: var(--background);
+}
+
+.bg-foreground {
+  background-color: var(--foreground);
+}
+
+.bg-primary {
+  background-color: var(--primary);
+}
+
+.bg-primary-foreground {
+  background-color: var(--primary-foreground);
+}
+
+.bg-secondary {
+  background-color: var(--secondary);
+}
+
+.bg-secondary-foreground {
+  background-color: var(--secondary-foreground);
+}
+
+.bg-accent {
+  background-color: var(--accent);
+}
+
+.bg-accent-foreground {
+  background-color: var(--accent-foreground);
+}
+
+.bg-muted {
+  background-color: var(--muted);
+}
+
+.bg-muted-foreground {
+  background-color: var(--muted-foreground);
+}
+
+.bg-card {
+  background-color: var(--card);
+}
+
+.bg-card-foreground {
+  background-color: var(--card-foreground);
+}
+
+.bg-border {
+  background-color: var(--border);
+}
+
+.bg-input {
+  background-color: var(--input);
+}
+
+.bg-ring {
+  background-color: var(--ring);
+}
+
+.bg-destructive {
+  background-color: var(--destructive);
+}
+
+.text-background {
+  color: var(--background);
+}
+
+.text-foreground {
+  color: var(--foreground);
+}
+
+.text-primary {
+  color: var(--primary);
+}
+
+.text-primary-foreground {
+  color: var(--primary-foreground);
+}
+
+.text-secondary {
+  color: var(--secondary);
+}
+
+.text-secondary-foreground {
+  color: var(--secondary-foreground);
+}
+
+.text-accent {
+  color: var(--accent);
+}
+
+.text-accent-foreground {
+  color: var(--accent-foreground);
+}
+
+.text-muted {
+  color: var(--muted);
+}
+
+.text-muted-foreground {
+  color: var(--muted-foreground);
+}
+
+.text-card {
+  color: var(--card);
+}
+
+.text-card-foreground {
+  color: var(--card-foreground);
+}
+
+.text-border {
+  color: var(--border);
+}
+
+.text-input {
+  color: var(--input);
+}
+
+.text-ring {
+  color: var(--ring);
+}
+
+.text-destructive {
+  color: var(--destructive);
+}
+
+.border-background {
+  border-color: var(--background);
+}
+
+.border-foreground {
+  border-color: var(--foreground);
+}
+
+.border-primary {
+  border-color: var(--primary);
+}
+
+.border-primary-foreground {
+  border-color: var(--primary-foreground);
+}
+
+.border-secondary {
+  border-color: var(--secondary);
+}
+
+.border-secondary-foreground {
+  border-color: var(--secondary-foreground);
+}
+
+.border-accent {
+  border-color: var(--accent);
+}
+
+.border-accent-foreground {
+  border-color: var(--accent-foreground);
+}
+
+.border-muted {
+  border-color: var(--muted);
+}
+
+.border-muted-foreground {
+  border-color: var(--muted-foreground);
+}
+
+.border-card {
+  border-color: var(--card);
+}
+
+.border-card-foreground {
+  border-color: var(--card-foreground);
+}
+
+.border-border {
+  border-color: var(--border);
+}
+
+.border-input {
+  border-color: var(--input);
+}
+
+.border-ring {
+  border-color: var(--ring);
+}
+
+.border-destructive {
+  border-color: var(--destructive);
+}
+
+.ring-background {
+  box-shadow: 0 0 0 3px var(--background);
+}
+
+.ring-foreground {
+  box-shadow: 0 0 0 3px var(--foreground);
+}
+
+.ring-primary {
+  box-shadow: 0 0 0 3px var(--primary);
+}
+
+.ring-primary-foreground {
+  box-shadow: 0 0 0 3px var(--primary-foreground);
+}
+
+.ring-secondary {
+  box-shadow: 0 0 0 3px var(--secondary);
+}
+
+.ring-secondary-foreground {
+  box-shadow: 0 0 0 3px var(--secondary-foreground);
+}
+
+.ring-accent {
+  box-shadow: 0 0 0 3px var(--accent);
+}
+
+.ring-accent-foreground {
+  box-shadow: 0 0 0 3px var(--accent-foreground);
+}
+
+.ring-muted {
+  box-shadow: 0 0 0 3px var(--muted);
+}
+
+.ring-muted-foreground {
+  box-shadow: 0 0 0 3px var(--muted-foreground);
+}
+
+.ring-card {
+  box-shadow: 0 0 0 3px var(--card);
+}
+
+.ring-card-foreground {
+  box-shadow: 0 0 0 3px var(--card-foreground);
+}
+
+.ring-border {
+  box-shadow: 0 0 0 3px var(--border);
+}
+
+.ring-input {
+  box-shadow: 0 0 0 3px var(--input);
+}
+
+.ring-ring {
+  box-shadow: 0 0 0 3px var(--ring);
+}
+
+.ring-destructive {
+  box-shadow: 0 0 0 3px var(--destructive);
+}

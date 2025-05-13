@@ -1,0 +1,46 @@
+$theme-keys: (
+  "background",
+  "foreground",
+  "primary",
+  "primary-foreground",
+  "secondary",
+  "secondary-foreground",
+  "accent",
+  "accent-foreground",
+  "muted",
+  "muted-foreground",
+  "card",
+  "card-foreground",
+  "border",
+  "input",
+  "ring",
+  "destructive"
+);
+
+// Backgrounds
+@each $key in $theme-keys {
+  .bg-#{$key} {
+    background-color: var(--#{$key});
+  }
+}
+
+// Text
+@each $key in $theme-keys {
+  .text-#{$key} {
+    color: var(--#{$key});
+  }
+}
+
+// Border
+@each $key in $theme-keys {
+  .border-#{$key} {
+    border-color: var(--#{$key});
+  }
+}
+
+// Ring
+@each $key in $theme-keys {
+  .ring-#{$key} {
+    box-shadow: 0 0 0 3px var(--#{$key});
+  }
+}

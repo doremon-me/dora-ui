@@ -1,0 +1,37 @@
+/* Alert styles */
+.alert-icon {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  color: var(--foreground);
+}
+
+/* Destructive variant */
+.alert--destructive {
+  color: var(--destructive);
+  border-color: var(--destructive);
+}
+
+.alert--destructive .alert-icon {
+  color: var(--destructive);
+}
+
+/* Optional spacing adjustment if SVG is present */
+.alert-with-icon {
+  padding-left: 2.75rem; /* matches pl-11 */
+}
+
+.alert-title {
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.015em;
+}
+
+.alert-description {
+  font-size: 0.875rem;
+}
+
+.alert-description p {
+  line-height: 1.6;
+}
